@@ -205,6 +205,66 @@ input, select, textarea {
 		padding: 0.5em 0 0.5em 1.5em;
 	}
 
+	/*
+	#two {
+		padding: 2px;
+		background-color: #ffffff;
+	}
+
+	.projects {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 20px;
+	}
+
+
+	.project { 
+		
+
+		display:flex;
+		flex-direction: row;
+		align-items: center;
+		
+		width: 100%;
+	}
+
+	.project img {
+		width: 80px;
+		height: auto;
+		
+		margin-right: 20px;
+	}
+
+	.project-description {
+		flex: 1;
+	}
+
+
+	.project-description h3 {
+		margin: 0 0 10px;
+		font-size: 1.5em;
+		color: #333;
+	}
+
+	.project-description p {
+		margin: 0;
+		color: #666;
+	}
+
+	.actions {
+		text-align: center;
+	}
+	
+	.actions .button {
+		padding: 10px 20px;
+		background-color: #007bff;
+		color: white;
+		text-decoration: none;
+		border-radius: 5px;
+	}
+
+	*/
 	code {
 		background: #f7f7f7;
 		border-radius: 0.35em;
